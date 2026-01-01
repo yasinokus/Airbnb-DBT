@@ -1,0 +1,14 @@
+exposures:
+  - name: airbnb_reviews_dashboard
+    type: dashboard
+    maturity: high
+    url: https://preset.io/example
+    description: >
+      BI dashboard used to monitor Airbnb performance metrics.
+
+    depends_on:
+      - ref('mart_fullmoon_reviews')
+
+    owner:
+      name: Data Team
+      email: data@company.com
