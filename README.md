@@ -221,3 +221,23 @@ This project is designed as a hands-on analytics engineering portfolio piece to:
 * Practice dbt and Snowflake on a realistic dataset
 * Apply data modeling, testing, and documentation best practices
 * Demonstrate familiarity with incremental models, snapshots, contracts, tests, and dbt docs
+
+
+## Project Screenshots
+
+### dbt Docs – Data Lineage
+
+
+![dbt](dbt%20lineage.png)
+
+
+### Snowflake Tables
+
+
+![snowflake](snowflake%20databases.png)
+
+
+### Project Structure
+
+
+![vscode project](vscode%20airbnb.png)
